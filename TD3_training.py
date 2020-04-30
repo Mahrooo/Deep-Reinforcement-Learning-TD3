@@ -1,3 +1,5 @@
+#trainign the network to find the optimal polocy and save optimal policy in policy folder
+
 #implementation of TD3 Algorithm:
 
 import os
