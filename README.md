@@ -11,6 +11,7 @@ and activate it by
 `conda activate your_env_name`
 
 You need to install some modules includes:
+
 `conda install pytorch torchvision -c pytorch`
 
 `conda install -c conda-forge matplotlib`
