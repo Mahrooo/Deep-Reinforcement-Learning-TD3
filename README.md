@@ -21,3 +21,19 @@ You need to install some modules includes:
 `conda install -c akode gym`
 
 ### How to run?
+
+To run this algorithm there are two ways:
+
+1- clone all files first
+
+2- open "TD3_training.py" and change env_name on line 39 to desired environment which is defined in PyBullet
+
+3- run "TD3_training.py" 
+
+4- optimal policy will store in "pytorch_models"
+
+5- to visualize the interaction of agent with environment you can open "main.py" file
+
+6- in "main.py" line 33 change env_name to the same environment you train the algorithm on
+
+7- you can see the video of the agent on "exp/brs/monitor" folder
