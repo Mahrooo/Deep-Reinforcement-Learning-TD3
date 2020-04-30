@@ -12,7 +12,7 @@ import torch.nn.functional as F
 from gym import wrappers
 from torch.autograd import Variable
 from collections import deque
-from trainingTD3 import TD3
+from TD3_algorithm import TD3
 
 def evaluate_policy(policy, eval_episodes=10):
     avg_reward = 0.
