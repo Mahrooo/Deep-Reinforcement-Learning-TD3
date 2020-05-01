@@ -24,7 +24,7 @@ You need to install some modules includes:
 
 To run this algorithm there are two ways:
 
-####First:
+#### First:
 
 1- clone all files 
 
@@ -42,6 +42,9 @@ To run this algorithm there are two ways:
 #### Second:
 1- clone all files 
 
-2- open "TD3.py" and change env_name on line 39 to desired environment which is defined in PyBullet
+2- open "TD3.py" and change env_name on line 209 and 493 to desired environment which is defined in PyBullet
 
-3-
+3- run the TD3.py file
+
+## Easy RUN!
+On the other hand you can do the same steps and run "TD3_onColab.ipyn" on google colab! 
