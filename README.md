@@ -46,5 +46,5 @@ To run this algorithm there are two ways:
 
 3- run the TD3.py file
 
-## Easy RUN!
+# Easy RUN!
 On the other hand you can change the name of the environment in 209 and 493 lines and run "TD3_onColab.ipyn" on google colab! 
